@@ -77,3 +77,13 @@ body {
         border-bottom: 0;
     }
 }
+
+#captcha pre {
+    font-size: 5px;
+    color: #428bca;
+    border: none;
+}
+
+#captcha #inputCaptcha {
+    text-transform:uppercase;
+}
